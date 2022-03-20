@@ -22,7 +22,7 @@ hr {
   opacity: 1;
 }
 .buffer{
-  height: 10rem;
+  height: 150px;
 }
 .btn{
   font-weight: 400;
@@ -39,5 +39,8 @@ hr {
 .btn-primary:hover {
   background-color: #ee4b08;
   border-color: #ee4b08;
-  border-width: 4px;
+}
+
+.text-center {
+  margin: 100px 0 0 0;
 }
